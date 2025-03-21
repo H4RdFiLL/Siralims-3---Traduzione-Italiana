@@ -8,7 +8,7 @@ Questa traduzione è stata realizzata per Siralim utilizzando Google Gemini API,
 I file tradotti possono essere importati direttamente in UndertaleModTool, uno strumento potente per la modifica dei giochi, compatibile con Siralim.
 
 🛠 Installazione
-1️⃣ Scaricare UndertaleModTool da UnderminersTeam/UndertaleModTool.
+1️⃣ Scaricare UndertaleModTool da [UnderminersTeam/UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool).
 2️⃣ Aprire il gioco in UndertaleModTool.
 3️⃣ Sotto la scheda Community Script, eseguire "Better Import Strings".
 4️⃣ Selezionare i file tradotti forniti in questo repository.
