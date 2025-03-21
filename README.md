@@ -14,12 +14,11 @@ I file tradotti possono essere importati direttamente in UndertaleModTool, uno s
 4️⃣ Selezionare i file tradotti forniti in questo repository.
 5️⃣ Salvare e godersi il gioco in italiano! 🇮🇹
 
-📜 Codice Python per la Traduzione
-Il codice Python utilizzato per generare la traduzione è incluso nel repository.
+📜 Il codice Python utilizzato per generare la traduzione è incluso nel repository. (occorre solo aggiungere una propria API KEY)
 
-Il codice utilizza Google Gemini API per una traduzione più fluida e naturale.
-Mantiene lo stile epico e cavalleresco del gioco originale.
+Il codice utilizza Google Gemini API per una traduzione più fluida e naturale mantenendo lo stile epico e cavalleresco del gioco originale.
 Automatizza la traduzione preservando il formato originale del testo.
+
 🙏 Ringraziamenti
 Un grande ringraziamento al progetto UnderminersTeam/UndertaleModTool per aver creato uno strumento così versatile e potente, che ha reso possibile questa traduzione!
 
