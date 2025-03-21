@@ -10,8 +10,8 @@ I file tradotti possono essere importati direttamente in UndertaleModTool, uno s
 🛠 Installazione
 1️⃣ Scaricare UndertaleModTool da [UnderminersTeam/UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool).
 2️⃣ Aprire il gioco in UndertaleModTool.
-3️⃣ Sotto la scheda Community Script, eseguire "Better Import Strings".
-4️⃣ Selezionare i file tradotti forniti in questo repository.
+3️⃣ Sotto la scheda Community Script, eseguire "ImportAllStringsBetter.csx".
+4️⃣ Selezionare il file tradotto "strings_translated.txt" fornito in questo repository all'interno della cartella "traduzione txt".
 5️⃣ Salvare e godersi il gioco in italiano! 🇮🇹
 
 📜 Il codice Python utilizzato per generare la traduzione è incluso nel repository. (occorre solo aggiungere una propria API KEY)
