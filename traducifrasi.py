@@ -3,7 +3,7 @@ import time
 import google.generativeai as genai
 
 # CONFIGURAZIONE GEMINI API (INSERIRE LA CHIAVE API)
-genai.configure(api_key="AIzaSyCKY5IJei6n7yAGKepf-aOuplbrc6BLSq4")  # Sostituire con la chiave API reale
+genai.configure(api_key="xxxxxxxxxxxxxxxxxxxxxx")  # Sostituire con la chiave API reale
 
 # File di input e output
 input_file = "strings.txt"
